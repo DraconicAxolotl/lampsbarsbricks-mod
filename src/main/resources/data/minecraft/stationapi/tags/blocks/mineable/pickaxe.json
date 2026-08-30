@@ -1,0 +1,19 @@
+{
+  "values": [
+    "lampsbarsbricks:stonebricks",
+    "lampsbarsbricks:stonebrick_stairs",
+    "lampsbarsbricks:stonetile",
+    "lampsbarsbricks:stonetile_stairs",
+    "lampsbarsbricks:mossy_stonebricks",
+    "lampsbarsbricks:mossy_stonebrick_stairs",
+    "lampsbarsbricks:cracked_stonebricks",
+    "lampsbarsbricks:cracked_stonebrick_stairs",
+    "lampsbarsbricks:chiseled_stonebricks",
+    "lampsbarsbricks:mossy_stonetile",
+    "lampsbarsbricks:mossy_stonetile_stairs",
+    "lampsbarsbricks:cracked_stonetile",
+    "lampsbarsbricks:cracked_stonetile_stairs",
+    "lampsbarsbricks:chiseled_stonetiles",
+    "lampsbarsbricks:redstone_lamp"
+  ]
+}

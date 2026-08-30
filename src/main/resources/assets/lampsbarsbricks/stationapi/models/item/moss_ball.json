@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+      "layer0": "lampsbarsbricks:item/moss_ball"
+  }
+}

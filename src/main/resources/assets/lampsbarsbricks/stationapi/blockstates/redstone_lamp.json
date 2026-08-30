@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "lampsbarsbricks:block/redstone_lamp"
+    }
+  }
+}
