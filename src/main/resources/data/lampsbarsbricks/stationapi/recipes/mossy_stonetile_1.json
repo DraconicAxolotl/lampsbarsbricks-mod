@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ba",
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "lampsbarsbricks:stonetile"
+    },
+    "b": {
+      "item": "lampsbarsbricks:moss_ball"
+    }
+  },
+  "result": {
+    "item": "lampsbarsbricks:mossy_stonetile",
+    "count": 2
+  }
+}

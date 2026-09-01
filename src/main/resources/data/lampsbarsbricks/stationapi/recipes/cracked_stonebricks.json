@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "lampsbarsbricks:stonebricks"
+  },
+  "result": {
+    "item": "lampsbarsbricks:cracked_stonebricks"
+  }
+}

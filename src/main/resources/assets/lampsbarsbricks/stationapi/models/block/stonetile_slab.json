@@ -1,0 +1,6 @@
+{
+  "parent": "lampsbarsbricks:block/template/slab",
+  "textures": {
+    "all": "lampsbarsbricks:block/stonetiles"
+  }
+}

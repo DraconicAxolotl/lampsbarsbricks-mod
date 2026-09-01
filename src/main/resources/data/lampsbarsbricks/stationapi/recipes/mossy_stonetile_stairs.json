@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "lampsbarsbricks:mossy_stonetile"
+    }
+  },
+  "result": {
+    "item": "lampsbarsbricks:mossy_stonetile_stairs",
+    "count": 4
+  }
+}

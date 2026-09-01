@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ba",
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cobblestone"
+    },
+    "b": {
+      "item": "lampsbarsbricks:moss_ball"
+    }
+  },
+  "result": {
+    "item": "minecraft:mossy_cobblestone",
+    "count": 2
+  }
+}

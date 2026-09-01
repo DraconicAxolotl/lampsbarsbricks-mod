@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "slab_type=bottom": {
+      "model": "lampsbarsbricks:block/mossy_stonetile_slab"
+    },
+
+    "slab_type=top": {
+      "model": "lampsbarsbricks:block/mossy_stonetile_slab",
+      "x": 180
+    },
+
+    "slab_type=double": {
+      "model": "lampsbarsbricks:block/mossy_stonetile_slab_full"
+    }
+  }
+}

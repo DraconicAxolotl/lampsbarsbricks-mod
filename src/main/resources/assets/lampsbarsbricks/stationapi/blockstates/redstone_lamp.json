@@ -1,7 +1,10 @@
 {
   "variants": {
-    "": {
+    "unpowered": {
       "model": "lampsbarsbricks:block/redstone_lamp"
+    },
+    "powered": {
+      "model": "lampsbarsbricks:block/redstone_lamp_powered"
     }
   }
 }

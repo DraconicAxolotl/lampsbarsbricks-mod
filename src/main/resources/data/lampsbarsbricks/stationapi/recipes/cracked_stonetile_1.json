@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "lampsbarsbricks:stonetile"
+  },
+  "result": {
+    "item": "lampsbarsbricks:cracked_stonetile"
+  }
+}

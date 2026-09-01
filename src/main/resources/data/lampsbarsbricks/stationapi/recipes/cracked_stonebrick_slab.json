@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "lampsbarsbricks:cracked_stonebricks"
+    }
+  },
+  "result": {
+    "item": "lampsbarsbricks:cracked_stonebrick_slab",
+    "count": 3
+  }
+}

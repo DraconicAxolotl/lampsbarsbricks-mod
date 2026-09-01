@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "lampsbarsbricks:cracked_stonebricks"
+    }
+  },
+  "result": {
+    "item": "lampsbarsbricks:cracked_stonebrick_stairs",
+    "count": 4
+  }
+}

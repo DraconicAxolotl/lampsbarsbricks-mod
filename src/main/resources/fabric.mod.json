@@ -27,7 +27,6 @@
     ]
   },
   "mixins": [
-    "lampsbarsbricks.mixins.json"
   ],
 
   "depends": {

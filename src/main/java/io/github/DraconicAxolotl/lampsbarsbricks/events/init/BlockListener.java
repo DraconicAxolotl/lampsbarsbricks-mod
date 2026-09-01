@@ -1,11 +1,15 @@
 package io.github.DraconicAxolotl.lampsbarsbricks.events.init;
 
 import io.github.DraconicAxolotl.lampsbarsbricks.block.*;
+import net.danygames2014.nyalib.block.PaneBlockTemplate;
+import net.danygames2014.nyalib.block.SlabBlockTemplate;
 import net.mine_diver.unsafeevents.listener.EventListener;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.modificationstation.stationapi.api.event.registry.BlockRegistryEvent;
 import net.modificationstation.stationapi.api.mod.entrypoint.EntrypointManager;
+import net.modificationstation.stationapi.api.state.StateManager;
+import net.modificationstation.stationapi.api.state.property.BooleanProperty;
 import net.modificationstation.stationapi.api.template.block.TemplateBlock;
 import net.modificationstation.stationapi.api.template.block.TemplateStairsBlock;
 import net.modificationstation.stationapi.api.util.Namespace;
@@ -25,21 +29,28 @@ public class BlockListener {
     // STONEBRICKS
     public static Block STONEBRICK;
     public static Block STONEBRICK_STAIRS;
+    public static Block STONEBRICK_SLAB;
     public static Block MOSSYSTONEBRICK;
     public static Block MOSSYSTONEBRICK_STAIRS;
+    public static Block MOSSY_STONEBRICK_SLAB;
     public static Block CRACKED_STONEBRICKS;
     public static Block CRACKED_STONEBRICK_STAIRS;
+    public static Block CRACKED_STONEBRICK_SLAB;
     public static Block CHISELED_STONEBRICKS;
     // STONE TILES
     public static Block STONETILE;
     public static Block STONETILE_STAIRS;
+    public static Block STONETILE_SLAB;
     public static Block MOSSY_STONETILE;
     public static Block MOSSY_STONETILE_STAIRS;
+    public static Block MOSSY_STONETILE_SLAB;
     public static Block CRACKED_STONETILE;
     public static Block CRACKED_STONETILE_STAIRS;
+    public static Block CRACKED_STONETILE_SLAB;
     public static Block CHISELED_STONETILES;
     // REDSTONE LAMP
     public static Block REDSTONELAMP;
+    public static final BooleanProperty ANGRY = BooleanProperty.of("powered");
 
 
     @EventListener
@@ -59,6 +70,11 @@ public class BlockListener {
                 .setResistance(6F);
         STONEBRICK_STAIRS = new TemplateStairsBlock(NAMESPACE.id("stonebrick_stairs"), STONEBRICK)
                 .setTranslationKey(NAMESPACE.id("stonebrick_stairs"));
+        STONEBRICK_SLAB = new SlabBlockTemplate(NAMESPACE.id("stonebrick_slab"), STONEBRICK)
+                .setTranslationKey(NAMESPACE.id("stonebrick_slab"))
+                .setSoundGroup(Block.STONE_SOUND_GROUP)
+                .setHardness(1.5F)
+                .setResistance(6F);
         MOSSYSTONEBRICK = new MossyStoneBrickBlock(NAMESPACE.id("mossy_stonebricks"))
                 .setTranslationKey(NAMESPACE.id("mossy_stonebricks"))
                 .setSoundGroup(Block.STONE_SOUND_GROUP)
@@ -66,6 +82,11 @@ public class BlockListener {
                 .setResistance(6F);
         MOSSYSTONEBRICK_STAIRS = new TemplateStairsBlock(NAMESPACE.id("mossy_stonebrick_stairs"), MOSSYSTONEBRICK)
                 .setTranslationKey(NAMESPACE.id("mossy_stonebrick_stairs"));
+        MOSSY_STONEBRICK_SLAB = new SlabBlockTemplate(NAMESPACE.id("mossy_stonebrick_slab"), MOSSYSTONEBRICK)
+                .setTranslationKey(NAMESPACE.id("mossy_stonebrick_slab"))
+                .setSoundGroup(Block.STONE_SOUND_GROUP)
+                .setHardness(1.5F)
+                .setResistance(6F);
         CRACKED_STONEBRICKS = new CrackedStoneBrickBlock(NAMESPACE.id("cracked_stonebricks"))
                 .setTranslationKey(NAMESPACE.id("cracked_stonebricks"))
                 .setSoundGroup(Block.STONE_SOUND_GROUP)
@@ -73,7 +94,11 @@ public class BlockListener {
                 .setResistance(6F);
         CRACKED_STONEBRICK_STAIRS = new TemplateStairsBlock(NAMESPACE.id("cracked_stonebrick_stairs"), CRACKED_STONEBRICKS)
                 .setTranslationKey(NAMESPACE.id("cracked_stonebrick_stairs"));
-
+        CRACKED_STONEBRICK_SLAB = new SlabBlockTemplate(NAMESPACE.id("cracked_stonebrick_slab"), STONEBRICK)
+                .setTranslationKey(NAMESPACE.id("cracked_stonebrick_slab"))
+                .setSoundGroup(Block.STONE_SOUND_GROUP)
+                .setHardness(1.5F)
+                .setResistance(6F);
         CHISELED_STONEBRICKS = new ChiseledStoneBrickBlock(NAMESPACE.id("chiseled_stonebricks"))
                 .setTranslationKey(NAMESPACE.id("chiseled_stonebricks"))
                 .setSoundGroup(Block.STONE_SOUND_GROUP)
@@ -87,7 +112,11 @@ public class BlockListener {
                 .setResistance(6F);
         STONETILE_STAIRS = new TemplateStairsBlock(NAMESPACE.id("stonetile_stairs"), STONETILE)
                 .setTranslationKey(NAMESPACE.id("stonetile_stairs"));
-
+        STONETILE_SLAB = new SlabBlockTemplate(NAMESPACE.id("stonetile_slab"), STONETILE)
+                .setTranslationKey(NAMESPACE.id("stonetile_slab"))
+                .setSoundGroup(Block.STONE_SOUND_GROUP)
+                .setHardness(1.5F)
+                .setResistance(6F);
         MOSSY_STONETILE = new MossyStoneTileBlock(NAMESPACE.id("mossy_stonetile"))
                 .setTranslationKey(NAMESPACE.id("mossy_stonetile"))
                 .setSoundGroup(Block.STONE_SOUND_GROUP)
@@ -95,6 +124,11 @@ public class BlockListener {
                 .setResistance(6F);
         MOSSY_STONETILE_STAIRS = new TemplateStairsBlock(NAMESPACE.id("mossy_stonetile_stairs"), MOSSY_STONETILE)
                 .setTranslationKey(NAMESPACE.id("mossy_stonetile_stairs"));
+        MOSSY_STONETILE_SLAB = new SlabBlockTemplate(NAMESPACE.id("mossy_stonetile_slab"), STONETILE)
+                .setTranslationKey(NAMESPACE.id("mossy_stonetile_slab"))
+                .setSoundGroup(Block.STONE_SOUND_GROUP)
+                .setHardness(1.5F)
+                .setResistance(6F);
         CRACKED_STONETILE = new CrackedStoneTileBlock(NAMESPACE.id("cracked_stonetile"))
                 .setTranslationKey(NAMESPACE.id("cracked_stonetile"))
                 .setSoundGroup(Block.STONE_SOUND_GROUP)
@@ -102,17 +136,22 @@ public class BlockListener {
                 .setResistance(6F);
         CRACKED_STONETILE_STAIRS = new TemplateStairsBlock(NAMESPACE.id("cracked_stonetile_stairs"), CRACKED_STONETILE)
                 .setTranslationKey(NAMESPACE.id("cracked_stonetile_stairs"));
+        CRACKED_STONETILE_SLAB = new SlabBlockTemplate(NAMESPACE.id("cracked_stonetile_slab"), STONETILE)
+                .setTranslationKey(NAMESPACE.id("cracked_stonetile_slab"))
+                .setSoundGroup(Block.STONE_SOUND_GROUP)
+                .setHardness(1.5F)
+                .setResistance(6F);
         CHISELED_STONETILES = new ChiseledStoneTileBlock(NAMESPACE.id("chiseled_stonetiles"))
                 .setTranslationKey(NAMESPACE.id("chiseled_stonetiles"))
                 .setSoundGroup(Block.STONE_SOUND_GROUP)
                 .setHardness(1.5F)
                 .setResistance(6F);
         //REDSTONE LAMP
-        REDSTONELAMP = new TemplateBlock(NAMESPACE.id("redstone_lamp"), Material.SPONGE)
+        REDSTONELAMP = new TemplateBlock(NAMESPACE.id("redstone_lamp"), Material.LEAVES)
                 .setTranslationKey(NAMESPACE.id("redstone_lamp"))
                 .setSoundGroup(Block.GLASS_SOUND_GROUP)
                 .setHardness(0.3F)
                 .setResistance(0.3F);
-
+        //IRON BARS
     }
 }

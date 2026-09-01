@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "a  ",
+    "   "
+  ],
+  "key": {
+    "a": {
+      "item": "lampsbarsbricks:stonebrick_slab"
+    }
+  },
+  "result": {
+    "item": "lampsbarsbricks:chiseled_stonebricks",
+    "count": 2
+  }
+}
