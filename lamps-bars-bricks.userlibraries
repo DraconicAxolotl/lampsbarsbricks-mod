@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Gradle: org.jetbrains:annotations:26.0.2">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/26.0.2/c7ce3cdeda3d18909368dfe5977332dfad326c6d/annotations-26.0.2.jar" />
+  </library>
+  <library name="Gradle: org.projectlombok:lombok:1.18.42">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.42/8365263844ebb62398e0dc33057ba10ba472d3b8/lombok-1.18.42.jar" />
+  </library>
+  <library name="Gradle: org.apache.logging.log4j:log4j-core:2.17.2">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.17.2/fa43ba4467f5300b16d1e0742934149bfc5ac564/log4j-core-2.17.2.jar" />
+  </library>
+  <library name="Gradle: org.apache.logging.log4j:log4j-slf4j18-impl:2.17.1">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j18-impl/2.17.1/ca499d751f4ddd8afb016ef698c30be0da1d09f7/log4j-slf4j18-impl-2.17.1.jar" />
+  </library>
+  <library name="Gradle: org.slf4j:slf4j-api:1.8.0-beta4">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.8.0-beta4/83b0359d847ee053d745be7ec0d8e9e8a44304b4/slf4j-api-1.8.0-beta4.jar" />
+  </library>
+  <library name="Gradle: com.google.guava:guava:33.2.1-jre">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/33.2.1-jre/818e780da2c66c63bbb6480fef1f3855eeafa3e4/guava-33.2.1-jre.jar" />
+  </library>
+  <library name="Gradle: org.ow2.asm:asm-analysis:9.10.1">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/9.10.1/8d49f14d51f632cb1d87c88d1ceaf50db0d8af1b/asm-analysis-9.10.1.jar" />
+  </library>
+  <library name="Gradle: org.lwjgl.lwjgl:lwjgl_util:2.9.4+legacyfabric.15">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl_util/2.9.4+legacyfabric.15/9fb7110ce0567de6134365d4b42d1652f215b801/lwjgl_util-2.9.4+legacyfabric.15.jar" />
+  </library>
+  <library name="Gradle: org.lwjgl.lwjgl:lwjgl:2.9.4+legacyfabric.15">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl/2.9.4+legacyfabric.15/4aa4a428a0af94c82d4cb700708733a9d448c8d7/lwjgl-2.9.4+legacyfabric.15.jar" />
+  </library>
+  <library name="Gradle: net.minecraft:launchwrapper:1.5">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/net.minecraft/launchwrapper/1.5/5150b9c2951f0fde987ce9c33496e26add1de224/launchwrapper-1.5.jar" />
+  </library>
+  <library name="Gradle: net.sf.jopt-simple:jopt-simple:4.5">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.5/6065cc95c661255349c1d0756657be17c29a4fd3/jopt-simple-4.5.jar" />
+  </library>
+  <library name="Gradle: net.java.jinput:jinput:2.0.5">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput/2.0.5/39c7796b469a600f72380316f6b1f11db6c2c7c4/jinput-2.0.5.jar" />
+  </library>
+  <library name="Gradle: net.java.jutils:jutils:1.0.0">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/net.java.jutils/jutils/1.0.0/e12fe1fda814bd348c1579329c86943d2cd3c6a6/jutils-1.0.0.jar" />
+  </library>
+  <library name="Gradle: org.ow2.asm:asm-util:9.10.1">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.10.1/7bb9d450e8d4cbf9f9e04096c44bbfe7fba80b15/asm-util-9.10.1.jar" />
+  </library>
+  <library name="Gradle: org.apache.logging.log4j:log4j-api:2.17.2">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.17.2/f42d6afa111b4dec5d2aea0fe2197240749a4ea6/log4j-api-2.17.2.jar" />
+  </library>
+  <library name="Gradle: com.google.guava:failureaccess:1.0.2">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.2/c4a06a64e650562f30b7bf9aaec1bfed43aca12b/failureaccess-1.0.2.jar" />
+  </library>
+  <library name="Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" />
+  </library>
+  <library name="Gradle: com.google.code.findbugs:jsr305:3.0.2">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar" />
+  </library>
+  <library name="Gradle: org.checkerframework:checker-qual:3.42.0">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.42.0/638ec33f363a94d41a4f03c3e7d3dcfba64e402d/checker-qual-3.42.0.jar" />
+  </library>
+  <library name="Gradle: com.google.errorprone:error_prone_annotations:2.26.1">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.26.1/c1fde57694bdc14e8618899aaa6e857d9465d7de/error_prone_annotations-2.26.1.jar" />
+  </library>
+  <library name="Gradle: com.google.j2objc:j2objc-annotations:3.0.0">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/3.0.0/7399e65dd7e9ff3404f4535b2f017093bdb134c7/j2objc-annotations-3.0.0.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains:annotations:23.0.0">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.0.0/8cc20c07506ec18e0834947b84a864bfc094484e/annotations-23.0.0.jar" />
+  </library>
+  <library name="Gradle: net.fabricmc:dev-launch-injector:0.2.1+build.8">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/net.fabricmc/dev-launch-injector/0.2.1+build.8/da8bef7e6e2f952da707f282bdb46882a0fce5e3/dev-launch-injector-0.2.1+build.8.jar" />
+  </library>
+  <library name="Gradle: net.fabricmc:fabric-log4j-util:1.0.2">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/net.fabricmc/fabric-log4j-util/1.0.2/ef0b3fb613356feb75a67d54f2fad6f03a006648/fabric-log4j-util-1.0.2.jar" />
+  </library>
+  <library name="Gradle: org.ow2.asm:asm-commons:9.10.1">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.10.1/4229e4c55fd8e01c23f9fe9884075cc628aacc50/asm-commons-9.10.1.jar" />
+  </library>
+  <library name="Gradle: org.ow2.asm:asm:9.10.1">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.10.1/ada2141c0cc52ee8f5c48cd5fa4ce0e794f22236/asm-9.10.1.jar" />
+  </library>
+  <library name="Gradle: org.ow2.asm:asm-tree:9.10.1">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.10.1/e244332a17564c1d1572449399a842de35881be2/asm-tree-9.10.1.jar" />
+  </library>
+  <library name="Gradle: net.glasslauncher:biny:constants:b1.7.3+e0778a3">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/net.glasslauncher/biny/b1.7.3+e0778a3/47e5a9dab04322005c11b4d4620ca7aae9e8361f/biny-b1.7.3+e0778a3-constants.jar" />
+  </library>
+  <library name="Gradle: org.apache.commons:commons-lang3:3.12.0">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.12.0/c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e/commons-lang3-3.12.0.jar" />
+  </library>
+  <library name="Gradle: commons-io:commons-io:2.11.0">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.11.0/a2503f302b11ebde7ebc3df41daebe0e4eea3689/commons-io-2.11.0.jar" />
+  </library>
+  <library name="Gradle: net.jodah:typetools:0.8.3">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/net.jodah/typetools/0.8.3/98f84f353457629e81cc6827224871b1a8faa7af/typetools-0.8.3.jar" />
+  </library>
+  <library name="Gradle: com.github.mineLdiver:UnsafeEvents:e31096e">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/com.github.mineLdiver/UnsafeEvents/e31096e/9b207f3cab6c1d9038070c8a046a3783f5cfd44d/UnsafeEvents-e31096e.jar" />
+  </library>
+  <library name="Gradle: com.mojang:datafixerupper:9.1.20">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/com.mojang/datafixerupper/9.1.20/9fba34537f9d802ea4ce5d1a491a1ea599094223/datafixerupper-9.1.20.jar" />
+  </library>
+  <library name="Gradle: it.unimi.dsi:fastutil:8.5.12">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/it.unimi.dsi/fastutil/8.5.12/c24946d46824bd528054bface3231d2ecb7e95e8/fastutil-8.5.12.jar" />
+  </library>
+  <library name="Gradle: com.github.ben-manes.caffeine:caffeine:3.0.5">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/com.github.ben-manes.caffeine/caffeine/3.0.5/3de85488bf535299d5f36d98626605331a10de87/caffeine-3.0.5.jar" />
+  </library>
+  <library name="Gradle: me.carleslc:Simple-Yaml:1.8.4">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/me.carleslc/Simple-Yaml/1.8.4/bc8186ab09137e5cb9424a2d039ab74d98fb72a3/Simple-Yaml-1.8.4.jar" />
+  </library>
+  <library name="Gradle: com.google.code.gson:gson:2.10.1">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.10.1/b3add478d4382b78ea20b1671390a858002feb6c/gson-2.10.1.jar" />
+  </library>
+  <library name="Gradle: me.carleslc:Simple-Configuration:1.8.4">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/me.carleslc/Simple-Configuration/1.8.4/ecef1eb336395bc80f520aef31ec14ddf05eceb9/Simple-Configuration-1.8.4.jar" />
+  </library>
+  <library name="Gradle: org.yaml:snakeyaml:2.0">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/2.0/3aab2116756442bf0d4cd1c089b24d34c3baa253/snakeyaml-2.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation:StationAPI-794fe5fe:2.0.0-alpha.6.2">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI-794fe5fe/2.0.0-alpha.6.2/StationAPI-794fe5fe-2.0.0-alpha.6.2.jar" />
+  </library>
+  <library name="Gradle: remapped.net.glasslauncher.mods:GlassConfigAPI-794fe5fe:3.2.5">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/glasslauncher/mods/GlassConfigAPI-794fe5fe/3.2.5/GlassConfigAPI-794fe5fe-3.2.5.jar" />
+  </library>
+  <library name="Gradle: remapped.net.danygames2014:modmenu-794fe5fe:1.1.1">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/danygames2014/modmenu-794fe5fe/1.1.1/modmenu-794fe5fe-1.1.1.jar" />
+  </library>
+  <library name="Gradle: remapped.net.glasslauncher.mods:AlwaysMoreItems-794fe5fe:1.10.4">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/glasslauncher/mods/AlwaysMoreItems-794fe5fe/1.10.4/AlwaysMoreItems-794fe5fe-1.10.4.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-vanilla-fix-v0:station-vanilla-fix-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-vanilla-fix-v0/station-vanilla-fix-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-vanilla-fix-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-achievements-v0:station-achievements-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-achievements-v0/station-achievements-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-achievements-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-armor-api-v0:station-armor-api-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-armor-api-v0/station-armor-api-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-armor-api-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-audio-loader-v0:station-audio-loader-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-audio-loader-v0/station-audio-loader-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-audio-loader-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-worldgen-api-v0:station-worldgen-api-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-worldgen-api-v0/station-worldgen-api-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-worldgen-api-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-biome-events-v0:station-biome-events-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-biome-events-v0/station-biome-events-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-biome-events-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-recipes-v0:station-recipes-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-recipes-v0/station-recipes-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-recipes-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-blockentities-v0:station-blockentities-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-blockentities-v0/station-blockentities-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-blockentities-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-blockitems-v0:station-blockitems-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-blockitems-v0/station-blockitems-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-blockitems-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-effects-api-v0:station-effects-api-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-effects-api-v0/station-effects-api-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-effects-api-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-renderer-arsenic:station-renderer-arsenic-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-renderer-arsenic/station-renderer-arsenic-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-renderer-arsenic-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-templates-v0:station-templates-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-templates-v0/station-templates-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-templates-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-renderer-api-v0:station-renderer-api-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-renderer-api-v0/station-renderer-api-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-renderer-api-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-tools-api-v1:station-tools-api-v1-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-tools-api-v1/station-tools-api-v1-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-tools-api-v1-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-items-v0:station-items-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-items-v0/station-items-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-items-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-blocks-v0:station-blocks-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-blocks-v0/station-blocks-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-blocks-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-container-api-v0:station-container-api-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-container-api-v0/station-container-api-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-container-api-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-flattening-v0:station-flattening-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-flattening-v0/station-flattening-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-flattening-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-nbt-v0:station-nbt-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-nbt-v0/station-nbt-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-nbt-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-datafixer-v0:station-datafixer-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-datafixer-v0/station-datafixer-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-datafixer-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-dimensions-v0:station-dimensions-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-dimensions-v0/station-dimensions-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-dimensions-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-entities-v0:station-entities-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-entities-v0/station-entities-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-entities-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-gui-api-v0:station-gui-api-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-gui-api-v0/station-gui-api-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-gui-api-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-keybindings-v0:station-keybindings-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-keybindings-v0/station-keybindings-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-keybindings-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-registry-sync-v0:station-registry-sync-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-registry-sync-v0/station-registry-sync-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-registry-sync-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-vanilla-checker-v0:station-vanilla-checker-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-vanilla-checker-v0/station-vanilla-checker-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-vanilla-checker-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-networking-v0:station-networking-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-networking-v0/station-networking-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-networking-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-localization-api-v0:station-localization-api-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-localization-api-v0/station-localization-api-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-localization-api-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-registry-api-v0:station-registry-api-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-registry-api-v0/station-registry-api-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-registry-api-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-resource-loader-v0:station-resource-loader-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-resource-loader-v0/station-resource-loader-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-resource-loader-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-lifecycle-events-v0:station-lifecycle-events-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-lifecycle-events-v0/station-lifecycle-events-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-lifecycle-events-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-maths-v0:station-maths-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-maths-v0/station-maths-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-maths-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-player-api-v0:station-player-api-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-player-api-v0/station-player-api-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-player-api-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-world-events-v0:station-world-events-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-world-events-v0/station-world-events-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-world-events-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-api-base:station-api-base-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-api-base/station-api-base-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-api-base-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-api-configuration:station-api-configuration-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-api-configuration/station-api-configuration-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-api-configuration-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.modificationstation.StationAPI.submodule.station-transitive-access-wideners-v0:station-transitive-access-wideners-v0-794fe5fe:2.0.0-alpha.6.2-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/modificationstation/StationAPI/submodule/station-transitive-access-wideners-v0/station-transitive-access-wideners-v0-794fe5fe/2.0.0-alpha.6.2-1.0.0/station-transitive-access-wideners-v0-794fe5fe-2.0.0-alpha.6.2-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.maven.modrinth:spasm-794fe5fe:0.2.2">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/maven/modrinth/spasm-794fe5fe/0.2.2/spasm-794fe5fe-0.2.2.jar" />
+  </library>
+  <library name="Gradle: org.slf4j:slf4j-api:2.0.9">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.9/7cf2726fdcfbc8610f9a71fb3ed639871f315340/slf4j-api-2.0.9.jar" />
+  </library>
+  <library name="Gradle: remapped.net.glasslauncher.mods:glass-networking-794fe5fe:1.0.7">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/glasslauncher/mods/glass-networking-794fe5fe/1.0.7/glass-networking-794fe5fe-1.0.7.jar" />
+  </library>
+  <library name="Gradle: net.fabricmc:sponge-mixin:0.17.4+mixin.0.8.7">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.17.4+mixin.0.8.7/5f66cc9f59b8efaa942155a3d5a30599bf6640dd/sponge-mixin-0.17.4+mixin.0.8.7.jar" />
+  </library>
+  <library name="Gradle: io.github.llamalad7:mixinextras-fabric:0.5.4">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/io.github.llamalad7/mixinextras-fabric/0.5.4/5e167154bcb9942111313a5e186e16cd7265f858/mixinextras-fabric-0.5.4.jar" />
+  </library>
+  <library name="Gradle: net.minecraft:minecraft-merged-f2e1ef8a83:b1.7.3-net.glasslauncher.biny.b1_7_3.b1.7.3+e0778a3-v2">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-f2e1ef8a83/b1.7.3-net.glasslauncher.biny.b1_7_3.b1.7.3+e0778a3-v2/minecraft-merged-f2e1ef8a83-b1.7.3-net.glasslauncher.biny.b1_7_3.b1.7.3+e0778a3-v2.jar" />
+  </library>
+  <library name="Gradle: net.fabricmc:fabric-loader:0.19.4">
+    <archive path="C:/Users/drago/.gradle/caches/modules-2/files-2.1/net.fabricmc/fabric-loader/0.19.4/73dc5ebef9b7744c770af1bf2cc3327f9bdcb049/fabric-loader-0.19.4.jar" />
+  </library>
+  <library name="Gradle: remapped.net.danygames2014:NyaLib-794fe5fe:0.21.1">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/danygames2014/NyaLib-794fe5fe/0.21.1/NyaLib-794fe5fe-0.21.1.jar" />
+  </library>
+  <library name="Gradle: remapped.net.danygames2014.NyaLib.submodule:nyalib-multipart-794fe5fe:0.21.1-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/danygames2014/NyaLib/submodule/nyalib-multipart-794fe5fe/0.21.1-1.0.0/nyalib-multipart-794fe5fe-0.21.1-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.danygames2014.NyaLib.submodule:nyalib-block-794fe5fe:0.21.1-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/danygames2014/NyaLib/submodule/nyalib-block-794fe5fe/0.21.1-1.0.0/nyalib-block-794fe5fe-0.21.1-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.danygames2014.NyaLib.submodule:nyalib-compat-794fe5fe:0.21.1-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/danygames2014/NyaLib/submodule/nyalib-compat-794fe5fe/0.21.1-1.0.0/nyalib-compat-794fe5fe-0.21.1-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.danygames2014.NyaLib.submodule:nyalib-energy-794fe5fe:0.21.1-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/danygames2014/NyaLib/submodule/nyalib-energy-794fe5fe/0.21.1-1.0.0/nyalib-energy-794fe5fe-0.21.1-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.danygames2014.NyaLib.submodule:nyalib-block-networks-794fe5fe:0.21.1-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/danygames2014/NyaLib/submodule/nyalib-block-networks-794fe5fe/0.21.1-1.0.0/nyalib-block-networks-794fe5fe-0.21.1-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.danygames2014.NyaLib.submodule:nyalib-fluid-794fe5fe:0.21.1-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/danygames2014/NyaLib/submodule/nyalib-fluid-794fe5fe/0.21.1-1.0.0/nyalib-fluid-794fe5fe-0.21.1-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.danygames2014.NyaLib.submodule:nyalib-block-templates-794fe5fe:0.21.1-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/danygames2014/NyaLib/submodule/nyalib-block-templates-794fe5fe/0.21.1-1.0.0/nyalib-block-templates-794fe5fe-0.21.1-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.danygames2014.NyaLib.submodule:nyalib-item-794fe5fe:0.21.1-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/danygames2014/NyaLib/submodule/nyalib-item-794fe5fe/0.21.1-1.0.0/nyalib-item-794fe5fe-0.21.1-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.danygames2014.NyaLib.submodule:nyalib-capability-794fe5fe:0.21.1-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/danygames2014/NyaLib/submodule/nyalib-capability-794fe5fe/0.21.1-1.0.0/nyalib-capability-794fe5fe-0.21.1-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.danygames2014.NyaLib.submodule:nyalib-base-794fe5fe:0.21.1-1.0.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/danygames2014/NyaLib/submodule/nyalib-base-794fe5fe/0.21.1-1.0.0/nyalib-base-794fe5fe-0.21.1-1.0.0.jar" />
+  </library>
+  <library name="Gradle: remapped.net.danygames2014:gambac-794fe5fe:1.4.0">
+    <archive path="C:/Users/drago/IdeaProjects/stationapi-example-mod/.gradle/loom-cache/remapped_mods/remapped/net/danygames2014/gambac-794fe5fe/1.4.0/gambac-794fe5fe-1.4.0.jar" />
+  </library>
+</eclipse-userlibraries>
+

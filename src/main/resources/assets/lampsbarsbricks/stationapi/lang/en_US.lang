@@ -1,0 +1,26 @@
+# @ is a shorthand for the current mod id, which is lampsbarsbricks. E.g: tile.@.redclay.name
+tile.@.thatch.name=Thatch
+tile.@.thatch_stairs.name=Thatch Stairs
+
+tile.@.stonebricks.name=Stone Bricks
+tile.@.stonebrick_stairs.name=Stone Brick Stairs
+tile.@.stonebrick_slab.name=Stone Brick Slab
+tile.@.mossy_stonebricks.name=Mossy Stone Bricks
+tile.@.mossy_stonebrick_stairs.name=Mossy Stone Brick Stairs
+tile.@.cracked_stonebricks.name=Cracked Stone Bricks
+tile.@.cracked_stonebrick_stairs.name=Cracked Stone Brick Stairs
+tile.@.chiseled_stonebricks.name=Chiseled Stone Bricks
+
+tile.@.stonetile.name=Stone Tile
+tile.@.stonetile_stairs.name=Stone Tile Stairs
+tile.@.stonetile_slab.name=Stone Tile Slab
+tile.@.chiseled_stonetiles.name=Chiseled Stone Tile
+tile.@.mossy_stonetile.name=Mossy Stone Tile
+tile.@.mossy_stonetile_stairs.name=Mossy Stone Tile Stairs
+tile.@.mossy_stonetile_slab.name=Mossy Stone Tile Slab
+tile.@.cracked_stonetile.name=Cracked Stone Tile
+tile.@.cracked_stonetile_stairs.name=Cracked Tile Stairs
+tile.@.cracked_stonetile_slab.name=Cracked Stone Tile Slab
+
+tile.@.redstone_lamp.name=Redstone Lamp !WIP!
+item.@.moss_ball.name=Moss Ball
